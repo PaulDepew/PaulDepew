@@ -1,11 +1,13 @@
 <div align="center"
->
-## It's Paul Depew
+
+
+# It's Paul Depew
 
 ------
 
 ####  and lets make something awesome!
 <img width="175px" src="./PromoCard_Logo.png">
+
 -----
 
 <details>
