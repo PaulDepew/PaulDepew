@@ -6,7 +6,7 @@
 ------
 
 ####  and lets make something awesome!
-![Logo](https://i.imgur.com/yOiILIn.png)
+<img width="150px" src="https://i.imgur.com/yOiILIn.png">
 
 -----
 
