@@ -42,6 +42,7 @@ During my career, I have always gravitated to projects with social meaning and c
 This had led me to work with arts groups, nonprofits, start-ups and well established companies doing everything from building and standardizing systems to ensuring smooth operations and growth. 
 
 I am looking to find an organization that can utilize these creative tendencies and get it done attitude to make cool stuff and tell awesome stories
+
 <br/>
 
 ### Languages:
@@ -55,7 +56,6 @@ I am looking to find an organization that can utilize these creative tendencies 
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br />
 
 ### Design:
 <img src="https://img.shields.io/badge/Illustrator%20-%23ff9a00.svg?&style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>
@@ -67,7 +67,6 @@ I am looking to find an organization that can utilize these creative tendencies 
 
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 
-<br />
 
 ### Frameworks:
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -81,10 +80,8 @@ I am looking to find an organization that can utilize these creative tendencies 
 <img src="https://img.shields.io/badge/Twilio%20-%23F22F46.svg?&style=for-the-badge&logo=twilio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io%20-%23010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 
-<br />
 
 ### Tools: 
-
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -97,7 +94,7 @@ I am looking to find an organization that can utilize these creative tendencies 
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<br />
+
 
 ### Databases:
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -105,10 +102,6 @@ I am looking to find an organization that can utilize these creative tendencies 
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
-
-
-<br />
-<br />
 
 
 [instagram]: https://instagram.com/lostamongpines
