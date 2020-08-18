@@ -6,7 +6,7 @@
 ------
 
 ####  and lets make something awesome!
-<img width="175px" src="./PromoCard_Logo.png">
+![Logo](https://i.imgur.com/yOiILIn.png)
 
 -----
 
