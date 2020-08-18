@@ -1,10 +1,7 @@
 <div align="center"
 
 
-# It's Paul Depew
-
-------
-
+# Paul Depew
 ####  and lets make something awesome!
 <img width="150px" src="https://i.imgur.com/yOiILIn.png">
 
