@@ -1,15 +1,16 @@
 <div align="center"
 >
 
-## Hi, It's Paul Depew...
+## It's Paul Depew
 ------
-#### Lets make something Awesome!
+####  and lets make something awesome!
 
 <img width="175px" src="./PromoCard_Logo.png">
 
-<br />
 
 -----
+
+<div style="align: flex;">
 <details>
 <summary> <b>Connect with Me!</b>
 </summary>
@@ -32,6 +33,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDepew&layout=compact&theme=nord)
 
   </details>
+</div>
 
 ---------------
 I am a full-stack Javascript developer and UX/UI designer looking to build scalable, human-oriented systems from first touch to end result.
