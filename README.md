@@ -1,4 +1,5 @@
-<center>
+<div align="center"
+>
 
 ## Hi, It's Paul Depew...
 ------
@@ -104,7 +105,7 @@ I am looking to find an organization that can utilize these creative tendencies 
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
-</center>
+</div>
 
 [instagram]: https://instagram.com/lostamongpines
 [linkedin]: https://www.linkedin.com/in/pauldepew/
